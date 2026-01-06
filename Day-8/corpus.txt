@@ -1,0 +1,20 @@
+Natural Language Processing is a field of artificial intelligence.
+NLP helps machines understand human language.
+Tokenization is the process of splitting text into words.
+Stop word removal helps reduce noise in text data.
+Stemming converts words into their root form.
+Lemmatization is better than stemming in many cases.
+TF IDF is used to find important words in documents.
+Bag of Words represents text using word counts.
+Cosine similarity measures how similar two documents are.
+Chatbots use NLP techniques to respond to users.
+Machine learning is widely used in NLP applications.
+Deep learning models perform well in language tasks.
+Python is commonly used for NLP development.
+Regular expressions help clean text data.
+Text preprocessing improves model performance.
+Search engines use TF IDF based ranking.
+Information retrieval is an important NLP application.
+AI systems depend on quality training data.
+Vector space models convert text into numbers.
+Similarity matching is used in question answering systems.
